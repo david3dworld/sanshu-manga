@@ -112,6 +112,7 @@ export default
         'images-large/5.jpg'
         'images-large/6.jpg'
         'images-large/7.jpg'
+        'images-large/8.jpg'
         
         'images-large/37.jpg'
         
