@@ -1,4 +1,4 @@
-# flipbook-vue
+# Sanshu Mangabook
 
 [![npm version](https://badge.fury.io/js/flipbook-vue.svg)](https://badge.fury.io/js/flipbook-vue)
 ![demo](https://github.com/ts1/flipbook-vue/workflows/demo/badge.svg)
@@ -284,13 +284,4 @@ To package for npm:
 yarn dist
 ```
 
-## Credits
 
-- vivekKodira: README correction
-- siderisng: `dragToFlip`
-
-## License
-
-MIT
-
-Copyright © 2019-2021 Takeshi Sone.
