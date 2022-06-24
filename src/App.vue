@@ -99,7 +99,34 @@ export default
         'images/6.jpg'
         'images/7.jpg'
         'images/8.jpg'
-        
+        'images/9.jpg'
+        'images/10.jpg'
+        'images/11.jpg'
+        'images/12.jpg'
+        'images/13.jpg'
+        'images/14.jpg'
+        'images/15.jpg'
+        'images/16.jpg'
+        'images/17.jpg'
+        'images/18.jpg'
+        'images/19.jpg'
+        'images/20.jpg'
+        'images/21.jpg'
+        'images/22.jpg'
+        'images/23.jpg'
+        'images/24.jpg'
+        'images/25.jpg'
+        'images/26.jpg'
+        'images/27.jpg'
+        'images/28.jpg'
+        'images/29.jpg'
+        'images/30.jpg'
+        'images/31.jpg'
+        'images/32.jpg'
+        'images/33.jpg'
+        'images/34.jpg'
+        'images/35.jpg'
+        'images/36.jpg'
         'images/37.jpg'
       ]
       @pagesHiRes = [
@@ -113,7 +140,34 @@ export default
         'images-large/6.jpg'
         'images-large/7.jpg'
         'images-large/8.jpg'
-        
+        'images-large/9.jpg'
+        'images-large/10.jpg'
+        'images-large/11.jpg'
+        'images-large/12.jpg'
+        'images-large/13.jpg'
+        'images-large/14.jpg'
+        'images-large/15.jpg'
+        'images-large/16.jpg'
+        'images-large/17.jpg'
+        'images-large/18.jpg'
+        'images-large/19.jpg'
+        'images-large/20.jpg'
+        'images-large/21.jpg'
+        'images-large/22.jpg'
+        'images-large/23.jpg'
+        'images-large/24.jpg'
+        'images-large/25.jpg'
+        'images-large/26.jpg'
+        'images-large/27.jpg'
+        'images-large/28.jpg'
+        'images-large/29.jpg'
+        'images-large/30.jpg'
+        'images-large/31.jpg'
+        'images-large/32.jpg'
+        'images-large/33.jpg'
+        'images-large/34.jpg'
+        'images-large/35.jpg'
+        'images-large/36.jpg'
         'images-large/37.jpg'
         
       ]
@@ -137,7 +191,7 @@ html, body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #333;
+  background-color: rgb(32, 179, 117);
   color: #ccc;
   overflow: hidden;
 }
