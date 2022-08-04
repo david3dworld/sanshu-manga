@@ -11,6 +11,6 @@ yarn serve
 To package for npm:
 
 ```
-yarn dist
+yarn dist.
 ```
 
